@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8135385daf0c60db",
+        "id": "f7bff0f6762ef44e",
         "type": "tabs",
         "children": [
           {
-            "id": "c5fdea91ba3c9a4d",
+            "id": "972993a12f075185",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Operating System/Operating System Notes.md",
+                "file": "Computer Networking/Computer Networking Notes.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Operating System Notes"
+              "title": "Computer Networking Notes"
             }
           }
         ]
@@ -108,6 +108,21 @@
             }
           },
           {
+            "id": "1bb8660eabc78f1d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Computer Networking/Computer Networking Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Computer Networking Notes"
+            }
+          },
+          {
             "id": "604e271b25692ff5",
             "type": "leaf",
             "state": {
@@ -138,25 +153,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "1bb8660eabc78f1d",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Important.md",
-                "followCursor": false,
+                "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-list",
-              "title": "Outline of Important"
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -190,11 +192,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 515.5
+    "width": 507.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,12 +207,25 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-excalidraw-plugin:Create new drawing": false,
-      "copilot:Open Copilot Chat": false
+      "copilot:Open Copilot Chat": false,
+      "obsidian-laser-pen:Toggle Laser Pen": false
     }
   },
-  "active": "34be43720e161fc2",
+  "active": "1bb8660eabc78f1d",
   "lastOpenFiles": [
+    "Drawing Notes/Trees.md",
+    "Drawing Notes/Memomization In Recursion.md",
+    "Computer Networking/Computer Networking Notes.md",
+    "Computer Networking/Untitled.md",
+    "Database Management System/DBMS.md",
+    "Computer Networking",
     "Operating System/Operating System Notes.md",
+    "Database Management System",
+    "Things to learn.md",
+    "Resources/Ink/Writing/2025.3.22 - 20.44pm.writing",
+    "Resources/Ink/Writing/2025.3.22 - 20.43pm.writing",
+    "Resources/Ink/Writing",
+    "Resources/Ink",
     "Excalidraw/Drawing 2025-03-22 15.17.46.excalidraw.md",
     "Operating System",
     "Image Processing/Drawing 2025-03-20 17.10.08.excalidraw.md",
@@ -224,36 +239,24 @@
     "Image Processing",
     "Daily Tasks/18-1-2025.md",
     "Daily Tasks/17-1-2025.md",
-    "Things to learn.md",
     "Notes.md",
     "Important.md",
     "GTK.md",
     "Questions Solved(leetcode)/December.md",
     "Linux Notes/Linux FileSystem Hierarchy Standard (FSH).md",
-    "Drawing Notes/Memomization In Recursion.md",
-    "Drawing Notes/Trees.md",
     "Excalidraw/Drawing 2025-03-18 22.43.45.excalidraw.md",
     "Excalidraw/Drawing 2025-03-05 19.24.53.excalidraw.md",
     "Excalidraw/Drawing 2025-02-28 23.45.28.excalidraw.md",
     "Rust/Introduction.md",
-    "Rust/Untitled 2.md",
-    "Rust/Untitled 1.md",
-    "Rust/Untitled.md",
     "Rust",
     "Resources/BST.webp",
     "Resources/Terminologies-in-Binary-Tree-in-Data-Structure_1.webp",
     "Resources/Binary-Tree-Representation.webp",
-    "Drawing Notes",
-    "Daily Tasks",
-    "Linux Notes",
     "Resources/screenshot_05012025_183838.jpg",
     "Resources/Pasted Image 20250105183905_947.jpg",
     "Excalidraw/Scripts/Downloaded/Add Connector Point.svg",
-    "Excalidraw/Scripts/Downloaded",
-    "Excalidraw/Scripts",
     "Resources/Pasted Image 20250105113046_340.jpg",
     "Untitled.canvas",
-    "Excalidraw",
     "Excalidraw/Drawing 2024-09-29 23.08.43.excalidraw.png",
     "Excalidraw/Drawing 2024-08-27 19.46.19.excalidraw.png",
     "Resources/merge3cluster.jpg"

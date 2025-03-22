@@ -25,5 +25,13 @@
       ],
       "key": "P"
     }
+  ],
+  "ink:create-handwritten-section": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
   ]
 }

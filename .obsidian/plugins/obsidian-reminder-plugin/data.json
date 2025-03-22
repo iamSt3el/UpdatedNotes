@@ -1,14 +1,6 @@
 {
   "scanned": true,
-  "reminders": {
-    "Daily Tasks/20-1-2025.md": [
-      {
-        "title": "Learn Linux Basics.",
-        "time": "2025-01-19 23:09",
-        "rowNumber": 2
-      }
-    ]
-  },
+  "reminders": {},
   "debug": false,
   "settings": {
     "reminderTime": "08:00",
