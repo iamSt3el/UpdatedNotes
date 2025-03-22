@@ -1,0 +1,31 @@
+{
+  "scanned": true,
+  "reminders": {
+    "Daily Tasks/20-1-2025.md": [
+      {
+        "title": "Learn Linux Basics.",
+        "time": "2025-01-19 23:09",
+        "rowNumber": 2
+      }
+    ]
+  },
+  "debug": false,
+  "settings": {
+    "reminderTime": "08:00",
+    "laters": "In 30 minutes\nIn 1 hour\nIn 3 hours\nTomorrow\nNext week",
+    "useSystemNotification": false,
+    "autoCompleteTrigger": "(@",
+    "primaryReminderFormat": "ReminderPluginReminderFormat",
+    "enableReminderPluginReminderFormat": true,
+    "dateFormat": "YYYY-MM-DD",
+    "dateTimeFormat": "YYYY-MM-DD HH:mm",
+    "strictDateFormat": false,
+    "linkDatesToDailyNotes": false,
+    "enableTasksPluginReminderFormat": false,
+    "useCustomEmojiForTasksPlugin": false,
+    "removeTagsForTasksPlugin": false,
+    "enableKanbanPluginReminderFormat": false,
+    "editDetectionSec": 10,
+    "reminderCheckIntervalSec": 5
+  }
+}

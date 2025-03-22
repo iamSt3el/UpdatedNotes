@@ -1,0 +1,28 @@
+
+ - [x] Two Pointers
+- [ ] Fast and Slow Pointers
+- [x] Sliding Window
+- [ ] Merge Intervals
+- [ ] In-Place Manipulation of a linked List
+- [ ] Two Heaps
+- [ ] K-way merge
+- [ ] Top K-Elements
+- [ ] Modified Binary Search
+- [ ] Subsets
+- [ ] Greedy Techniques
+- [ ] Backtracking
+- [ ] Dynamic Programming
+- [ ] Cyclic Sort
+- [ ] Topological Sort
+- [ ] Sort and Search
+- [ ] Matrices
+- [ ] Stacks
+- [ ] Graphs
+- [ ] Depth-First-Search
+- [ ] Breadth-First-Search
+- [ ] Tree Depth-First-Search
+- [ ] Tree Breadth-First Search
+- [ ] Trie
+- [ ] Hash Maps
+- [ ] Union Find
+- [ ] Bitwise Manipulation

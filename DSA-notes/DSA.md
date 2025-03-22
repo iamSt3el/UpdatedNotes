@@ -1,0 +1,35 @@
+- [x]   Array
+	- [x] Bubble Sort
+	- [x] Insertion Sort
+	- [x] Selection Sort
+	- [x] Merge Sort
+	- [x] Quick Sort
+	- [x] Heap Sort
+	- [x] Linear Search
+	- [x] Binary Search
+
+- [x] Linked lists
+	- [x] Singley Linked List
+	- [ ] Doubley Linked List
+	- [ ] Circular Linked List
+- [ ] Stacks
+- [ ] Queues
+- [ ] Hash Tables
+- [ ] Tree
+	- [x] Binary Trees
+	- [x] Binary Search Trees
+	- [ ] AVL Trees
+	- [ ] B-Tree
+	- [x] In-Order Traversal
+	- [x] Pre-Order Traversal
+	- [x] Post-Order Traversal
+	- [x] Breadth First Search
+	- [ ] Depth First Search
+
+- [ ] Graphs
+	- [ ] Breadth First Search
+	- [ ] Depth First Search
+	- [ ] Dijkstra's Algo
+	- [ ] Belimon-Ford
+	- [ ] Prim's Algo
+	- [ ] Kruskal's Algo

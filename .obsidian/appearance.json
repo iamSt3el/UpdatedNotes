@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Dracula Official",
+  "theme": "obsidian",
+  "accentColor": "#bcc3cd",
+  "enabledCssSnippets": [
+    "custom"
+  ],
+  "showViewHeader": true,
+  "textFontFamily": "FiraCode Nerd Font",
+  "baseFontSize": 20,
+  "interfaceFontFamily": "FiraCode Nerd Font"
+}

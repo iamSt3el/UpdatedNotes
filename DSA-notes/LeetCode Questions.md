@@ -1,0 +1,4 @@
+- [ ] [380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) 
+- [ ] [381. Insert Delete GetRandom O(1) - Duplicates allowed](https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed)  
+- [ ] [2349. Design a Number Container System](https://leetcode.com/problems/design-a-number-container-system)  
+- [ ] [2353. Design a Food Rating System](https://leetcode.com/problems/design-a-food-rating-system)
